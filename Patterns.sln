@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "Composite\CompositePattern.csproj", "{DDC26F5A-A74E-4921-A7DC-F9C97D43E5CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{BE7236D7-19F3-4399-B4DD-6BA630D983B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DDC26F5A-A74E-4921-A7DC-F9C97D43E5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDC26F5A-A74E-4921-A7DC-F9C97D43E5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDC26F5A-A74E-4921-A7DC-F9C97D43E5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7236D7-19F3-4399-B4DD-6BA630D983B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7236D7-19F3-4399-B4DD-6BA630D983B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7236D7-19F3-4399-B4DD-6BA630D983B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7236D7-19F3-4399-B4DD-6BA630D983B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
