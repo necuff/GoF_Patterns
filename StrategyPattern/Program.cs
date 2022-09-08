@@ -1,4 +1,4 @@
-﻿using StrategyPattern;
+﻿using StrategyPattern.Components;
 
 Context context = new Context(new ConcreteStrategy1());
 
