@@ -1,38 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="DecoratorPattern.Component">
-    <Position X="6.25" Y="1.5" Width="1.5" />
+  <Class Name="DecoratorPattern.Components.Component" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Component.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\Component.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DecoratorPattern.ConcreteComponent">
-    <Position X="5" Y="3" Width="1.5" />
+  <Class Name="DecoratorPattern.Components.ConcreteComponent" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>ConcreteComponent.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\ConcreteComponent.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DecoratorPattern.Decorator">
-    <Position X="7.5" Y="3" Width="1.5" />
+  <Class Name="DecoratorPattern.Components.ConcreteDecoratorA" Collapsed="true">
+    <Position X="8.25" Y="4.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Decorator.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\ConcreteDecoratorA.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DecoratorPattern.ConcreteDecoratorA">
-    <Position X="6.5" Y="4.5" Width="1.5" />
+  <Class Name="DecoratorPattern.Components.ConcreteDecoratorB" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>ConcreteDecoratorA.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\ConcreteDecoratorB.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DecoratorPattern.ConcreteDecoratorB">
-    <Position X="8.75" Y="4.5" Width="1.5" />
+  <Class Name="DecoratorPattern.Components.Decorator" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>ConcreteDecoratorB.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAQAA=</HashCode>
+      <FileName>Components\Decorator.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
