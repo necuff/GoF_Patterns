@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BrigePattern.Components.Abstraction">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\Abstraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrigePattern.Components.ConcreteImplementorA">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\ConcreteImplementorA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrigePattern.Components.ConcreteImplementorB">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\ConcreteImplementorB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrigePattern.Components.Implementor">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\Implementor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrigePattern.Components.RefinedAbstraction">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Components\RefinedAbstraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
