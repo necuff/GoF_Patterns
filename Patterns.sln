@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "Composite\CompositePattern.csproj", "{DDC26F5A-A74E-4921-A7DC-F9C97D43E5CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositePattern", "Composite\CompositePattern.csproj", "{DDC26F5A-A74E-4921-A7DC-F9C97D43E5CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{BE7236D7-19F3-4399-B4DD-6BA630D983B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{BE7236D7-19F3-4399-B4DD-6BA630D983B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{EF50D4CA-0CD4-4A3E-A625-95F7D6CFF833}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{EF50D4CA-0CD4-4A3E-A625-95F7D6CFF833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{3BDFF07E-C277-4DD8-A718-D460E980E283}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{3BDFF07E-C277-4DD8-A718-D460E980E283}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrigePattern", "BrigePattern\BrigePattern.csproj", "{E0F4CCC3-A79C-4B2C-8373-A4D5F936C34F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrigePattern", "BrigePattern\BrigePattern.csproj", "{E0F4CCC3-A79C-4B2C-8373-A4D5F936C34F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{379EF633-7442-4F87-AFB5-46D4F8705FE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{379EF633-7442-4F87-AFB5-46D4F8705FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{846A743C-2D6F-4C98-B2CF-E075DC280F07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{379EF633-7442-4F87-AFB5-46D4F8705FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{379EF633-7442-4F87-AFB5-46D4F8705FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{379EF633-7442-4F87-AFB5-46D4F8705FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846A743C-2D6F-4C98-B2CF-E075DC280F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846A743C-2D6F-4C98-B2CF-E075DC280F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846A743C-2D6F-4C98-B2CF-E075DC280F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846A743C-2D6F-4C98-B2CF-E075DC280F07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
