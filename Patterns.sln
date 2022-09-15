@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrigePattern", "BrigePatter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{379EF633-7442-4F87-AFB5-46D4F8705FE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{846A743C-2D6F-4C98-B2CF-E075DC280F07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{846A743C-2D6F-4C98-B2CF-E075DC280F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{F529F8B5-DB2C-4101-9830-AAA12266AED3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{846A743C-2D6F-4C98-B2CF-E075DC280F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{846A743C-2D6F-4C98-B2CF-E075DC280F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{846A743C-2D6F-4C98-B2CF-E075DC280F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F529F8B5-DB2C-4101-9830-AAA12266AED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F529F8B5-DB2C-4101-9830-AAA12266AED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F529F8B5-DB2C-4101-9830-AAA12266AED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F529F8B5-DB2C-4101-9830-AAA12266AED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
