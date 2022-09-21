@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "Singlet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{846A743C-2D6F-4C98-B2CF-E075DC280F07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{F529F8B5-DB2C-4101-9830-AAA12266AED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{F529F8B5-DB2C-4101-9830-AAA12266AED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{B1EC4926-FD78-43D6-9162-99DDFBFFE7A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{B1EC4926-FD78-43D6-9162-99DDFBFFE7A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{221E3852-1DBE-4605-A600-C4AA5892CDF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{B1EC4926-FD78-43D6-9162-99DDFBFFE7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1EC4926-FD78-43D6-9162-99DDFBFFE7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1EC4926-FD78-43D6-9162-99DDFBFFE7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221E3852-1DBE-4605-A600-C4AA5892CDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221E3852-1DBE-4605-A600-C4AA5892CDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221E3852-1DBE-4605-A600-C4AA5892CDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221E3852-1DBE-4605-A600-C4AA5892CDF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
